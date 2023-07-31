@@ -1,6 +1,6 @@
-### Olá 👋
+### Olá Visitante 👋
 
-Meu nome é Mary Hellen, sou graduada em Pedagogia e estou cursando o 3º semestre em Ciência de Dados na Fatec.
+Me chamo Mary Hellen, sou graduada em Pedagogia e estou cursando o 3º semestre em Ciência de Dados na Fatec.
 ### Algumas tecnologias que utilizo:
 <div style="display: inline_block">
   <img aling="center" alt="logo Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
